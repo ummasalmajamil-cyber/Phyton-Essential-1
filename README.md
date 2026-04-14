@@ -11,8 +11,6 @@ This repository contains my certificate for completing the Python Essentials 1 c
   - Data structures (lists, dictionaries)
   - Problem solving
 
-## 📜 Certificate
-[Upload your certificate file here]
 
 ## 🚀 Next Steps
 I am continuing my learning journey in:
